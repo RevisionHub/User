@@ -5,3 +5,10 @@
 /home/harlan/BackendServer/User/obj/Debug/User.exe.mdb
 /home/harlan/BackendServer/User/bin/Debug/CommonLib.dll
 /home/harlan/BackendServer/User/bin/Debug/CommonLib.dll.mdb
+/home/harlan/RevisionHub/User/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/harlan/RevisionHub/User/bin/Debug/User.exe.mdb
+/home/harlan/RevisionHub/User/bin/Debug/User.exe
+/home/harlan/RevisionHub/User/obj/Debug/User.exe
+/home/harlan/RevisionHub/User/obj/Debug/User.exe.mdb
+/home/harlan/RevisionHub/User/bin/Debug/CommonLib.dll
+/home/harlan/RevisionHub/User/bin/Debug/CommonLib.dll.mdb
