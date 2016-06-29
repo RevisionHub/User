@@ -57,7 +57,8 @@ let main argv =
             |> Array.append 
             <| [|0uy|]
         printfn "%A" vars'
-        {payloadsize=vars'.Length;payloadverb=PayloadVerb.GotPost;payload=vars'}|>write c.[Daemon.Page]
+
+        {payloadsize=vars'.Length;session = None; payloadverb=PayloadVerb.GotPost;payload=vars'}|>write c.[Daemon.Page]
     printfn "%A" argv
     0 // return an integer exit code
 
